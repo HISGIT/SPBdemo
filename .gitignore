@@ -30,8 +30,4 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-<<<<<<< HEAD
 .vscode/
-=======
-madff/.vscode/
->>>>>>> c4867dcd7793b89d36d83838740e937b61f41b1a
