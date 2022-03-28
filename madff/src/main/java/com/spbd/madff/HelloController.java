@@ -1,4 +1,4 @@
-package com.spbd;
+package com.spbd.madff;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
